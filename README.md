@@ -3,9 +3,9 @@
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Chao Xìn! Mình là Bùi Quốc Cường và mình đến từ Việt Nam.
+### Hello! My name's Bùi Quốc Cường and I'm from Việt Nam.
 
-### Info của mình
+### My information
 
 </a>
 <a href="https://www.facebook.com/s1mple.ys">
@@ -23,11 +23,11 @@
 
    <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
-### 👨‍💻 Giới thiệu về bản thân
+### 👨‍💻 Introducing myself
 
-Mình sinh ra và lớn lên ở thành phố Biên Hòa - tỉnh Đồng Nai. Mình hiện là sinh viên năm nhất ngành Khoa học Máy tính của Trường Đại học Công nghệ Thông tin - ĐHQG TP.HCM. 
+I was born and raised in Bien Hoa city - Dong Nai province. I am currently a first-year student majoring in Computer Science at the University of Information Technology - Vietnam National University, Ho Chi Minh City.
 
-## Cảm ơn mọi người đã đọc!!!
+## Thanks for reading!!!
 
 -----
 <img src="https://cdn2.fptshop.com.vn/unsafe/800x0/meme_meo_khoc_6_abed597df9.jpg" width="100px">
