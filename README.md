@@ -1,5 +1,5 @@
 
-![Web-developer](https://uploads.dailydot.com/2024/07/side-eye-cat.jpg?q=65&auto=format&w=800&ar=2:1&fit=crop)
+![Web-developer](blob:https://www.facebook.com/54040758-08a1-422e-9351-3804f997400f)
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
